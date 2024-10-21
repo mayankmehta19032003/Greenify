@@ -480,10 +480,10 @@ body {
   position: relative; }
   .header__logo-box {
     position: absolute;
-    top: 1rem;
-    left: -1rem; }
+    top: 2rem;
+    left: 66rem; }
   .header__logo {
-    height: 15rem; }
+    height: 10rem; }
   .header__text-box {
     position: absolute;
     top: 40%;
